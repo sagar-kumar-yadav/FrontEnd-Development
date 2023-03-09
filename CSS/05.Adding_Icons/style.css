@@ -1,0 +1,15 @@
+#btn-fb{
+    padding: 8px 16px;
+    background-color: #3b5998;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.label{
+    padding-left: 8px;
+}
+
+#google-logo{
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,16 @@
+#second-para{
+    border: 6px solid red;
+    /* padding: 100px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px; */
+
+    /* padding: 16pxs 20px 24px 28px; */
+
+    /* padding: 24px 48px 24px 48px; */
+    padding: 24px 48px;
+
+    /* just like padding we use margin */
+    margin: 16px 20px 24px 48px;
+}

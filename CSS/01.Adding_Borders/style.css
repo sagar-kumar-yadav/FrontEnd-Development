@@ -1,0 +1,20 @@
+#second-para{
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+
+
+    /* border-top-style: dashed;
+    border-right-style: dotted;
+    border-left-style: double;
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-color: red; */
+
+    border: 5px solid red;
+
+    border-radius: 8px;
+
+
+    
+}
+
